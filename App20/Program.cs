@@ -47,7 +47,6 @@ namespace App20
 
         //static int PowerAB(int a, int b) => (int)Math.Pow(a, b);
         //static int PowerBA(int a, int b) => (int)Math.Pow(b, a);
-
         //{
         //int p= 1;
         //for (int i = 0; i < b; i++)
